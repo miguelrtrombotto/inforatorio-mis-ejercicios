@@ -1,4 +1,0 @@
-# Ignorar carpeta de mis ejercicios personales 
-mis-ejercicios/ 
-# Otros archivos que típicamente se ignoran 
-__pycache__/ *.pyc *.pyo *.egg-info/ .env .venv/ venv/ .DS_Store
